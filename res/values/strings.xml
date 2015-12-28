@@ -17,7 +17,7 @@
 
 <resources>
     <string name="app_name">Battery Charging Notificator</string>
-    <string name="versionName">0.9.0</string>
+    <string name="versionName">1.0.0</string>
     <string name="copyright">(c) 2015 Sören Köhler</string>
 
     <string name="sources_label">Sourcecode:</string>
