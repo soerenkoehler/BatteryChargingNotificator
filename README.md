@@ -8,7 +8,7 @@
 **Solution**: "Battery Charging Notificator" uses notifications to switches the LED.
 
 - While charging, the LED is off and the notification shows an orange icon.
-- When fully charged, the icon becomes green and the LED is switched on.
+- When fully charged, the icon becomes green and (if screen is off) the LED is switched on.
 
 ## Prebuild binaries
 
