@@ -10,13 +10,15 @@
 - While charging, the LED is off and the notification shows an orange icon.
 - When fully charged, the icon becomes green and (if screen is off) the LED is switched on.
 
-## Prebuild binaries
-
-https://play.google.com/
-
 ## Building from github
 
 IDE-specific files are not included in the repository.
 
 - Please set up yourself a local project in your preferred IDE.
-- Make sure that any local project files are ignored (i.e. update `.gitignore`).
+- When committing changes, make sure that no local project files are committed (i.e. update `.gitignore`).
+
+## Prebuild binaries
+
+The current release from branch [Release-1.0.0](https://github.com/soerenkoehler/BatteryChargingNotificator/tree/Release-1.0.0) is available on Google Play:
+
+<a href="https://play.google.com/store/apps/details?id=de.soerenkoehler.android.bcn&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" height="60px"/></a>
