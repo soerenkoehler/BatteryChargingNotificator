@@ -12,9 +12,8 @@
 
 ## Building from github
 
-IDE-specific files are not included in the repository.
-
-- Please set up yourself a local project in your preferred IDE.
+- Check out the repository. Then set up a local Android project in your preferred IDE.
+- IDE-specific files are **not** included in the repository. This includes `local.properties` as adviced by the boiler-plate code. Either create it yourself and let `sdk.dir` point to your Android SDK or let your IDE create it.
 - When committing changes, make sure that no local project files are committed (i.e. update `.gitignore`).
 
 ## Prebuild binaries
