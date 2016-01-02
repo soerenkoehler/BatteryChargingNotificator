@@ -17,8 +17,9 @@
 
 <resources>
     <string name="app_name">Battery Charging Notificator</string>
-    <string name="versionName">1.0.0</string>
-    <string name="copyright">(c) 2015 Sören Köhler</string>
+    <string name="versionTitle">Version:</string>
+    <string name="versionName">1.1.0-ALPHA</string>
+    <string name="copyright">(c) 2016 Sören Köhler</string>
 
     <string name="sources_label">Sourcecode:</string>
     <string name="sources_link">https://github.com/soerenkoehler/BatteryChargingNotificator/</string>
@@ -30,4 +31,12 @@
     <string name="charging_text">charging</string>
     <string name="charged_title">Battery Charging Notificator</string>
     <string name="charged_text">100% charged (click to dismiss)</string>
+
+    <string name="ledModeWhenCharging">Charging:</string>
+    <string name="ledModeWhenCharged">Charged:</string>
+    <string-array name="ledMode">
+        <item>LED On</item>
+        <item>LED Off</item>
+        <item>Blinking</item>
+    </string-array>
 </resources>
